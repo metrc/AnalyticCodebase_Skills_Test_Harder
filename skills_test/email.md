@@ -1,4 +1,4 @@
-Subject: Assignment for Metrc Skill Test
+Subject: Assignment for METRC Skill Test
 
 Dear [Applicant],
 
