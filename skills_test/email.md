@@ -8,6 +8,8 @@ We would like you to complete a task to showcase your data analysis skills. This
 
 Please clone our repository at this link https://github.com/metrc/AnalyticCodebase_Skills_Test_Harder and set your working directory to the project root. You will find detailed instructions and specific task details within the README.md file in the root directory.
 
+The GitHub PAT you need is [PAT].
+
 This task is designed to test your understanding of the R programming language, data analysis skills, and your ability to interact with our codebase. It's also meant to provide insights into your problem-solving approach and your ability to work independently.
 
 We expect you to refer to the documentation for the AnalyticCodebase package and the Analytic System as you proceed. Remember that asking for advice or clarification is a good practice when the documentation doesn't suffice.
